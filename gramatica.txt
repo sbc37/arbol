@@ -1,0 +1,6 @@
+S -> NP VP
+NP -> Det N
+VP -> V NP
+Det -> 'the'
+N -> 'cat'
+V -> 'saw'
